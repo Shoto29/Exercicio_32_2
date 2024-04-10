@@ -1,6 +1,6 @@
 EXERCÍCIO 32.2
 
-A. Escreva a classe Veiculo contendo Peso em quilos(int), VelocMax em Km/h(int) e Preco em R$ (float).
+A. Escreva a classe Veiculo contendo Peso em quilos(int), VelocMax em Km/h(int) e Preco em R$ (float).\n
 • Crie um construtor que inicialize os dados com zero e “”.
 • Crie um construtor que inicialize os dados com valores passados por parâmetro.
 • Crie métodos set’s para alterar os dados.
